@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "161943703978",
+    "project_id": "yacir-tv",
+    "storage_bucket": "yacir-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943703978:android:53506d92280f67c51f5bd3",
+        "android_client_info": {
+          "package_name": "com.imamhusseinwallpapers.imamhussein"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sFu9NemGxml5lu3af3Yb99lvnFkTlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943703978:android:4a29901240fc8c111f5bd3",
+        "android_client_info": {
+          "package_name": "com.koralive.soccerlive.soccer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sFu9NemGxml5lu3af3Yb99lvnFkTlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943703978:android:a65788473f2688311f5bd3",
+        "android_client_info": {
+          "package_name": "com.koralive.yallashot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sFu9NemGxml5lu3af3Yb99lvnFkTlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943703978:android:51fe3e4a647ad3631f5bd3",
+        "android_client_info": {
+          "package_name": "com.omartv.yallashot.koralive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sFu9NemGxml5lu3af3Yb99lvnFkTlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943703978:android:6558e52535a4a0d01f5bd3",
+        "android_client_info": {
+          "package_name": "com.palestine.palestinewallpapers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sFu9NemGxml5lu3af3Yb99lvnFkTlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943703978:android:db9746c32f7740271f5bd3",
+        "android_client_info": {
+          "package_name": "com.waterfall.wallpaper4k.wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sFu9NemGxml5lu3af3Yb99lvnFkTlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943703978:android:45d34d99d6f6d3a31f5bd3",
+        "android_client_info": {
+          "package_name": "com.yacirtv.yallashot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sFu9NemGxml5lu3af3Yb99lvnFkTlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
